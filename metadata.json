@@ -1,0 +1,8 @@
+{
+  "name": "Remix ROX WIN",
+  "description": "ROX WIN Gaming Platform with Wingo, Aviator, Cricket, Deposit \u0026 Withdrawal, and Admin Panel",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
