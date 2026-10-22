@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Rocks%20win%20game/',
+    base: '/base: '/roxx_win_game-/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
