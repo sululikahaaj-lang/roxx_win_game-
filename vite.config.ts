@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/base: '/roxx_win_game-/',
+    base:  '/roxx_win_game-/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
